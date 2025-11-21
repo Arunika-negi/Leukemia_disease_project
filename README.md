@@ -6,7 +6,8 @@ The dataset contains 8009 microscopic blood smear images categorized into:
 *Leukemia (infected)*
 *Normal (healthy)*
 
-🔗 **Download Full Dataset (Google Drive):**  
+🔗 **Download Full Dataset (Google Drive):** 
+https://drive.google.com/drive/folders/1_Aywcveu4rJgT2zeLpYb_LwtYG1ltdgJ?usp=sharing
 
 # Models
 This folder contains a trained Keras deep learning model saved in the model.keras format.

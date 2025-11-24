@@ -10,9 +10,8 @@ The dataset contains 8009 microscopic blood smear images categorized into:
 https://drive.google.com/drive/folders/1_Aywcveu4rJgT2zeLpYb_LwtYG1ltdgJ?usp=sharing
 
 # Models
-This folder contains a trained Keras deep learning model saved in the model.keras format.
-The model is designed for: Image Classification.
-https://drive.google.com/drive/folders/1rNQYGAS3QBqXQtO_TFGnJPQMkWnjwcr3?usp=sharing
+keras folder : https://drive.google.com/drive/folders/1Uc-xN3HXJol_jOHTXMKV2tzw2XyS5a4C?usp=sharing
+h5 file : https://drive.google.com/file/d/1yQTj_Rxppv6F5QCoQxxC5Zd37oblvjuU/view?usp=sharing
 
 # Project Structure
 📁 leukemia-detection/

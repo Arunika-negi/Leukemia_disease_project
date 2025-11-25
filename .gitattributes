@@ -1,0 +1,10 @@
+# Ensure LF for code and notebooks
+*.py text eol=lf
+*.ipynb text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+
+# Binary files are untouched
+*.png binary
+*.jpg binary
+*.h5 binary

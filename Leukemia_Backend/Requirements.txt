@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-python-multipart
-pillow
-tensorflow==2.20.0
-numpy
-
